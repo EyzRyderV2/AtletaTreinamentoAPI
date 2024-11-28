@@ -43,3 +43,8 @@ Para subir a API, execute:
 make run
 ```
 e acesse: http://127.0.0.1:8000/docs
+
+# Dev
+<a href="https://github.com/EyzRyder">
+<img src="https://avatars.githubusercontent.com/u/85580011?v=4" alt="Gabriel" width="90" height="90"/>
+</a>
